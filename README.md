@@ -19,5 +19,5 @@ You can output an image of 256x256 resolution in 3000 epoch in about 15 minutes.
 Other parameters are both content loss = 0.025, style loss = 1.
 
 # Refernce
-Keras neural style transfer example (GPUs version)
+Keras neural style transfer example (GPUs version)  
 [https://github.com/keras-team/keras/blob/master/examples/neural_style_transfer.py](https://github.com/keras-team/keras/blob/master/examples/neural_style_transfer.py)
