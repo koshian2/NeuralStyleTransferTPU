@@ -1,6 +1,8 @@
 # NeuralStyleTransferTPU
 Fast neural style trasnfer using Colab TPUs by TensorFlow/Keras.
 
+You can output an image of 256x256 resolution in 3000 epoch in about 15 minutes.
+
 # Result
 ## Content Image
 ![](https://github.com/koshian2/NeuralStyleTransferTPU/blob/master/images/kiyomizu.jpg)
